@@ -54,8 +54,12 @@
     }
   },
   "MediumBlue": {
+    "500": {
+      "$value": "#1100ea",
+      "$type": "color"
+    },
     "600": {
-      "$value": "#291eb4",
+      "$value": "#1001d0",
       "$type": "color"
     },
     "700": {
